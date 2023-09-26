@@ -1,0 +1,13 @@
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/Projeto_Web-Lh_Pets
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/appsettings.Development.json
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/appsettings.json
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/Projeto_Web-Lh_Pets.dll
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/Projeto_Web-Lh_Pets.deps.json
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/Projeto_Web-Lh_Pets.runtimeconfig.json
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/Projeto_Web-Lh_Pets.pdb
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/System.Data.SqlClient.dll
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/runtimes/win-arm64/native/sni.dll
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/runtimes/win-x64/native/sni.dll
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/runtimes/win-x86/native/sni.dll
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/iury/prog/senai/csharp/Projeto_Web-Lh_Pets/bin/Release/net6.0/publish/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
